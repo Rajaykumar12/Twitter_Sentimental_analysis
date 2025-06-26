@@ -17,7 +17,7 @@ kaggle>=1.5.12
 opendatasets>=0.1.20
 
 # Jupyter Notebook Support
-jupyter>=1.0.0
+jupyter>=1.0.0 
 notebook>=6.4.0
 
 # Regular Expressions (usually included with Python)
