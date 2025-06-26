@@ -182,7 +182,7 @@ Twitter_Sentimental_analysis/
 ├── kaggle.json              # Kaggle API credentials (not tracked)
 │
 └── sentiment140/            # Dataset directory (auto-created)
-    └── training.1600000.processed.noemoticon.csv
+    └── training.1600000.processed.noemoticon.csv 
 ```
 
 ## 🔌 API Reference
